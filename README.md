@@ -85,3 +85,5 @@ This project is open for educational and personal use.
 C# Developer | ASP.NET Core MVC Learner
 
 ---
+
+⭐ If you find this project useful, feel free to give it a star!
