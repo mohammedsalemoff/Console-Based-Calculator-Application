@@ -77,3 +77,11 @@ The code is organized into two logical regions inside `Program.cs`:
 ## 📄 License
 
 This project is open for educational and personal use.
+
+## Author
+
+**Mohammed Salem**
+
+C# Developer | ASP.NET Core MVC Learner
+
+---
